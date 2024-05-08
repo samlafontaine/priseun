@@ -19,7 +19,7 @@ export default function Home() {
                 Chez Prise 1, nous aidons les entreprises à faire rayonner leur
                 professionalisme et savoir-faire. Nous nous spécialisons dans la
                 production de photos et vidéos d'équipes, de présentations
-                d'offres de services, et de témoignages clients.
+                d'offres de services et de témoignages clients.
               </p>
             </div>
             <div className="flex flex-row gap-3">
