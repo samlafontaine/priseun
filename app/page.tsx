@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/badge";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between p-4">
       <div className="w-full">
         <div className="container mx-auto">
           <div className="flex gap-8 py-20 lg:py-40 items-center justify-center flex-col">
