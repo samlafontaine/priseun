@@ -18,8 +18,8 @@ export default function Home() {
               <p className="text-lg md:text-xl leading-relaxed tracking-tight text-muted-foreground max-w-2xl text-center">
                 Chez Prise 1, nous aidons les entreprises à faire rayonner leur
                 professionalisme et savoir-faire. Nous nous spécialisons dans la
-                production de photos et vidéos d'équipes, de présentations
-                d'offres de services et de témoignages clients.
+                production de photos et vidéos d&apos;équipes, de présentations
+                d&apos;offres de services et de témoignages clients.
               </p>
             </div>
             <div className="flex flex-row gap-3">
